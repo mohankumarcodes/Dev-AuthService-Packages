@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dev.AuthService</id>
+    <version>1.0.1</version>
+    <authors>mohankumar</authors>
+    <description>JWT-based AuthService with register/login and role-based access. Easy integration and clear usage for .NET Core developers.</description>
+    <tags>JWT AuthService Register Login RoleBased .NET Core NuGet</tags>
+    <repository type="git" url="https://github.com/mohankumarcodes/Dev-AuthService-Packages" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="8.0.14" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity" version="2.3.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="9.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="9.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="9.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens" version="8.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\bin\Release\net8.0\Dev.AuthService.dll" target="lib\net8.0\Dev.AuthService.dll" />
+  </files>
+</package>

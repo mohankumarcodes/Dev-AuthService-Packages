@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|d:\\devlopment work\\applications\\.net\\ownnugetpacakges\\dev.authservice\\dev.authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|solutionrelative:dev.authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|d:\\devlopment work\\applications\\.net\\ownnugetpacakges\\dev.authservice\\services\\authserviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|solutionrelative:services\\authserviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|d:\\devlopment work\\applications\\.net\\ownnugetpacakges\\dev.authservice\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|d:\\devlopment work\\applications\\.net\\ownnugetpacakges\\dev.authservice\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|solutionrelative:extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|d:\\devlopment work\\applications\\.net\\ownnugetpacakges\\dev.authservice\\models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|solutionrelative:models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|d:\\devlopment work\\applications\\.net\\ownnugetpacakges\\dev.authservice\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|solutionrelative:models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|d:\\devlopment work\\applications\\.net\\ownnugetpacakges\\dev.authservice\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75BAD8E-8222-4D88-A331-B1727939AB18}|Dev.AuthService.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dev.AuthService.csproj",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Dev.AuthService.csproj",
+              "RelativeDocumentMoniker": "Dev.AuthService.csproj",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Dev.AuthService.csproj",
+              "RelativeToolTip": "Dev.AuthService.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T15:19:11.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:40:15.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthServiceClass.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Services\\AuthServiceClass.cs",
+              "RelativeDocumentMoniker": "Services\\AuthServiceClass.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Services\\AuthServiceClass.cs",
+              "RelativeToolTip": "Services\\AuthServiceClass.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:09:51.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:06:09.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Models\\AuthResult.cs",
+              "RelativeDocumentMoniker": "Models\\AuthResult.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Models\\AuthResult.cs",
+              "RelativeToolTip": "Models\\AuthResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:01:20.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:59:55.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterRequest.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\OwnNuGetPacakges\\Dev.AuthService\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:58:17.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

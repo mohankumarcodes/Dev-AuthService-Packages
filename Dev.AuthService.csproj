@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<!-- NuGet Metadata -->
+		<Version>1.0.1</Version>
+		<PackageId>Dev.AuthService</PackageId>
+		<Authors>mohankumar</Authors>
+		<Company>mohankumarcodes</Company>
+		<Description>JWT-based AuthService with register/login and role-based access. Easy integration and clear usage for .NET Core developers.</Description>
+		<RepositoryUrl>https://github.com/mohankumarcodes/Dev-AuthService-Packages</RepositoryUrl>
+		<PackageTags>JWT AuthService Register Login RoleBased .NET Core NuGet</PackageTags>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.3.1" />
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.3" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.3" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.3" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.14" />
+		<PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.7.0" />
+	</ItemGroup>
+
+</Project>

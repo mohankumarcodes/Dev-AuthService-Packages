@@ -1,0 +1,12 @@
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\bin\Debug\net8.0\Dev.AuthService.deps.json
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\bin\Debug\net8.0\Dev.AuthService.dll
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\bin\Debug\net8.0\Dev.AuthService.pdb
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\obj\Debug\net8.0\Dev.AuthService.csproj.AssemblyReference.cache
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\obj\Debug\net8.0\Dev.AuthService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\obj\Debug\net8.0\Dev.AuthService.AssemblyInfoInputs.cache
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\obj\Debug\net8.0\Dev.AuthService.AssemblyInfo.cs
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\obj\Debug\net8.0\Dev.AuthService.csproj.CoreCompileInputs.cache
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\obj\Debug\net8.0\Dev.AuthService.dll
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\obj\Debug\net8.0\refint\Dev.AuthService.dll
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\obj\Debug\net8.0\Dev.AuthService.pdb
+D:\Devlopment Work\Applications\.NET\OwnNuGetPacakges\Dev.AuthService\obj\Debug\net8.0\ref\Dev.AuthService.dll
